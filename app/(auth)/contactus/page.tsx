@@ -31,8 +31,8 @@ import Footer from '@/components/ui/footer'
               <div className="flex items-center my-6">
                 <div className="text-gray-400 text-center mx-auto">
                   M/s Ambey Vaishno Steels Pvt. Ltd. <br />
-                  18, 3rd Floor, Dholakwala Building, Fort, <br />
-                  Mumbai 400001.
+                  505-A, Dempo Trade Centre, <br />
+                  Patto Plaza, Panaji, Goa 403001, India.
                 </div>
               </div>
 
@@ -49,11 +49,9 @@ import Footer from '@/components/ui/footer'
               <div className="flex items-center my-6">
                 <div className="text-gray-400 text-center mx-auto">
                   M/s Ambey Vaishno Steels Pvt. Ltd. <br />
-                  Room 1406, Building 4B, <br />
-                  New Hind Mill Mhada Sankul, <br />
-                  Ram Bhau Bhogle Marg, <br />
-                  Ghodapdev, Mumbai City, <br />
-                  Maharashtra 400033. <br />
+                  B-71, Kagal MIDC, <br />
+                  in the Karveer sub-district <br />
+                  of Kolhapur, Maharashtra.
                 </div>
               </div>
 

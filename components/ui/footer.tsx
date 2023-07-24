@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="flex justify-center">
             {/* Copyrights note */}
             <p className="text-gray-200 text-sm mr-4">
-              &copy; M/s Ambey Vaishno Steels Pvt. Ltd. 505-A, Dempo Trade Centre, Patto Plaza, Panaji, Goa 403001, India.
+              &copy; M/s Ambey Vaishno Steels Pvt. Ltd. B-71, Kagal MIDC, in the Karveer sub-district of Kolhapur, Maharashtra.
             </p>
           </div>
         </div>

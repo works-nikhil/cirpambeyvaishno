@@ -133,10 +133,10 @@ const InsolvencyProcess = () => {
 
               <div className="flex items-center mb-2">
                 <div className="flex-1">
-                  <p className="mr-4">9. List of Creditors 19 July, 2023</p>
+                  <p className="mr-4">9. List of Creditors 15 July, 2023</p>
                 </div>
                 <div>
-                  <a href="/pdfs/List of Creditors 19 July, 2023.pdf" download>
+                  <a href="/pdfs/List of Creditors 15 July, 2023.pdf" download>
                     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
                       Download File
                     </button>
@@ -144,7 +144,7 @@ const InsolvencyProcess = () => {
                 </div>
               </div>
               
-              <div className="flex items-center mb-2">
+              {/* <div className="flex items-center mb-2">
                 <div className="flex-1">
                   <p className="mr-4">10. Financial Statement 31 March 2023</p>
                 </div>
@@ -155,11 +155,11 @@ const InsolvencyProcess = () => {
                     </button>
                   </a>
                 </div>
-              </div>
+              </div> */}
 
               <div className="flex items-center mb-2">
                 <div className="flex-1">
-                  <p className="mr-4">11. Form_G</p>
+                  <p className="mr-4">10. Form_G</p>
                 </div>
                 <div>
                   <a href="/pdfs/Form G Expression of Interest.pdf" download>
