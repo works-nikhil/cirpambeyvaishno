@@ -170,6 +170,47 @@ const InsolvencyProcess = () => {
                 </div>
               </div>
 
+              <div className="flex items-center mb-2">
+                <div className="flex-1">
+                  <p className="mr-4">11. Form G Dated 17-8-2023</p>
+                </div>
+                <div>
+                  <a href="/pdfs/Form G Dated 17-8-2023.pdf" download>
+                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
+                      Download File
+                    </button>
+                  </a>
+                </div>
+              </div>
+
+
+              <div className="flex items-center mb-2">
+                <div className="flex-1">
+                  <p className="mr-4">12. AVSPL FY 21-22 Provisional</p>
+                </div>
+                <div>
+                  <a href="/pdfs/AVSPL FY 21-22 Provisional.pdf" download>
+                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
+                      Download File
+                    </button>
+                  </a>
+                </div>
+              </div>
+
+
+              <div className="flex items-center mb-2">
+                <div className="flex-1">
+                  <p className="mr-4">13. AVSPL FY 22-23 Provisional</p>
+                </div>
+                <div>
+                  <a href="/pdfs/AVSPL FY 22-23 Provisional.pdf" download>
+                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none">
+                      Download File
+                    </button>
+                  </a>
+                </div>
+              </div>
+
               {/* Repeat the above pattern for other files */}
             </div>
           </div>
